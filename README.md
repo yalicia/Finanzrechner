@@ -1,1 +1,0 @@
-Wie verhält sich ein Optionschein in unterschiedlichen Marktphasen? Was passiert zum Beispiel, wenn ein Basiswert um 6 Prozent steigt? Der Optionsscheinrechner hilft dabei, diese Fragen zu beantworten.
